@@ -1,0 +1,4 @@
+.env
+/data
+/example-versioning
+/model.pth
